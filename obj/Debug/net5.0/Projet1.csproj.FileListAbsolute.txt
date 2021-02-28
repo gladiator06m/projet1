@@ -1,0 +1,16 @@
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\bin\Debug\net5.0\Projet1.exe
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\bin\Debug\net5.0\Projet1.deps.json
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\bin\Debug\net5.0\Projet1.runtimeconfig.json
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\bin\Debug\net5.0\Projet1.runtimeconfig.dev.json
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\bin\Debug\net5.0\Projet1.dll
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\bin\Debug\net5.0\ref\Projet1.dll
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\bin\Debug\net5.0\Projet1.pdb
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\obj\Debug\net5.0\Projet1.csprojAssemblyReference.cache
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\obj\Debug\net5.0\Projet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\obj\Debug\net5.0\Projet1.AssemblyInfoInputs.cache
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\obj\Debug\net5.0\Projet1.AssemblyInfo.cs
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\obj\Debug\net5.0\Projet1.csproj.CoreCompileInputs.cache
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\obj\Debug\net5.0\Projet1.dll
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\obj\Debug\net5.0\ref\Projet1.dll
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\obj\Debug\net5.0\Projet1.pdb
+C:\Users\Naïm\Desktop\c#\Projet1\Projet1\obj\Debug\net5.0\Projet1.genruntimeconfig.cache
