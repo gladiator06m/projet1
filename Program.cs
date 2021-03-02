@@ -6,11 +6,46 @@ namespace Projet1
     {
 
         //FONCTION AFFICHAGE MESSAGE
-        static void afficherInfosPersonne(string nom, int age)
+        static void afficherInfosPersonne(string nom, int age, float taille)
         {
             Console.WriteLine();
             Console.WriteLine("Bonjour, vous vous appelez " + nom + ", vous avez " + age + " ans");
             Console.WriteLine("bientôt vous aurez " + (age + 1) + " ans");
+
+            //Si l'age >= à 18 -> majeur sinon mineur
+
+            if (age == 18)
+            {
+                Console.WriteLine("Vous êtes tout juste majeur");
+            }
+
+            else if (age == 17)
+            {
+                Console.WriteLine("Vous serez bientôt majeur");
+            }
+
+            else if (age >= 60) 
+            {
+                Console.WriteLine("Vous êtes sénior");
+            }
+
+            else if (age < 10)
+            {
+                Console.WriteLine("Vous êtes un enfant");
+            }
+
+            else if (age > 18)
+            {
+                Console.WriteLine("Vous êtes majeur");
+            }
+
+            else
+            {
+                Console.WriteLine("Vous êtes mineur");
+            }
+
+            //taille de la personne
+            Console.WriteLine("Vous faites " + taille + "m de hauteur ");
         }
 
         //FONCTION AGE
@@ -21,7 +56,7 @@ namespace Projet1
             {
                 try
                 {
-                    Console.Write("Quel est l'age de " + nomPersonne + " ");
+                    Console.Write("Quel est l'age de " + nomPersonne + " ? ");
                     string TonAge = Console.ReadLine();
                     ageConvert = int.Parse(TonAge);
 
@@ -84,8 +119,8 @@ namespace Projet1
             //Console.WriteLine("bientôt vous aurez " + (ageConvert2 + 1) + " ans");
 
             //AFFICHER LE MESSAGE METHODE PRO
-            afficherInfosPersonne(TonNom1, ageConvert1);
-            afficherInfosPersonne(TonNom2, ageConvert2);
+            afficherInfosPersonne(TonNom1, ageConvert1, 1.75f);
+            afficherInfosPersonne(TonNom2, ageConvert2, 1.85f);
 
         }
     }
