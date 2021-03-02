@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Naïm\\Desktop\\c#\\Projet1\\Projet1\\Projet1.csproj",
+      "projectUniqueName": "C:\\Users\\Naïm\\Documents\\GitHub\\Projet1\\Projet1\\Projet1.csproj",
       "projectName": "Projet1",
-      "projectPath": "C:\\Users\\Naïm\\Desktop\\c#\\Projet1\\Projet1\\Projet1.csproj",
+      "projectPath": "C:\\Users\\Naïm\\Documents\\GitHub\\Projet1\\Projet1\\Projet1.csproj",
       "packagesPath": "C:\\Users\\Naïm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Naïm\\Desktop\\c#\\Projet1\\Projet1\\obj\\",
+      "outputPath": "C:\\Users\\Naïm\\Documents\\GitHub\\Projet1\\Projet1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
